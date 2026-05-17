@@ -1,0 +1,335 @@
+[
+  {
+    "isbn": "9780439064873",
+    "name": "Harry Potter and the Chamber of Secrets",
+    "author": "J.K. Rowling",
+    "publisher": "Scholastic",
+    "publishYear": 1999,
+    "stock": 5,
+    "location": "A1"
+  },
+  {
+    "isbn": "9780439136365",
+    "name": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J.K. Rowling",
+    "publisher": "Scholastic",
+    "publishYear": 1999,
+    "stock": 3,
+    "location": "A1"
+  },
+  {
+    "isbn": "9780439139601",
+    "name": "Harry Potter and the Goblet of Fire",
+    "author": "J.K. Rowling",
+    "publisher": "Scholastic",
+    "publishYear": 2000,
+    "stock": 3,
+    "location": "A1"
+  },
+  {
+    "isbn": "9780439358071",
+    "name": "Harry Potter and the Order of the Phoenix",
+    "author": "J.K. Rowling",
+    "publisher": "Scholastic",
+    "publishYear": 2003,
+    "stock": 1,
+    "location": "A2"
+  },
+  {
+    "isbn": "9780545010221",
+    "name": "Harry Potter and the Deathly Hallows",
+    "author": "J.K. Rowling",
+    "publisher": "Scholastic",
+    "publishYear": 2007,
+    "stock": 4,
+    "location": "A2"
+  },
+  {
+    "isbn": "9780553103540",
+    "name": "A Game of Thrones",
+    "author": "George R. R. Martin",
+    "publisher": "Bantam",
+    "publishYear": 1996,
+    "stock": 7,
+    "location": "B1"
+  },
+  {
+    "isbn": "9780553108033",
+    "name": "A Clash of Kings",
+    "author": "George R. R. Martin",
+    "publisher": "Bantam",
+    "publishYear": 1999,
+    "stock": 4,
+    "location": "B1"
+  },
+  {
+    "isbn": "9780553106633",
+    "name": "A Storm of Swords",
+    "author": "George R. R. Martin",
+    "publisher": "Bantam",
+    "publishYear": 2000,
+    "stock": 3,
+    "location": "B2"
+  },
+  {
+    "isbn": "9780553801507",
+    "name": "A Feast for Crows",
+    "author": "George R. R. Martin",
+    "publisher": "Bantam",
+    "publishYear": 2005,
+    "stock": 5,
+    "location": "B2"
+  },
+  {
+    "isbn": "9780553801477",
+    "name": "A Dance with Dragons",
+    "author": "George R. R. Martin",
+    "publisher": "Bantam",
+    "publishYear": 2011,
+    "stock": 7,
+    "location": "B3"
+  },
+  {
+    "isbn": "9780618640157",
+    "name": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "publisher": "Houghton Mifflin",
+    "publishYear": 1954,
+    "stock": 1,
+    "location": "C1"
+  },
+  {
+    "isbn": "9780345339683",
+    "name": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "publisher": "Ballantine Books",
+    "publishYear": 1937,
+    "stock": 9,
+    "location": "C1"
+  },
+  {
+    "isbn": "9780385504201",
+    "name": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "publisher": "Doubleday",
+    "publishYear": 2003,
+    "stock": 4,
+    "location": "C2"
+  },
+  {
+    "isbn": "9780671027360",
+    "name": "Angels & Demons",
+    "author": "Dan Brown",
+    "publisher": "Pocket Books",
+    "publishYear": 2000,
+    "stock": 5,
+    "location": "C2"
+  },
+  {
+    "isbn": "9780385514231",
+    "name": "The Lost Symbol",
+    "author": "Dan Brown",
+    "publisher": "Doubleday",
+    "publishYear": 2009,
+    "stock": 3,
+    "location": "C3"
+  },
+  {
+    "isbn": "9780307474278",
+    "name": "Inferno",
+    "author": "Dan Brown",
+    "publisher": "Doubleday",
+    "publishYear": 2013,
+    "stock": 6,
+    "location": "C3"
+  },
+  {
+    "isbn": "9780142437209",
+    "name": "Frankenstein",
+    "author": "Mary Shelley",
+    "publisher": "Penguin Classics",
+    "publishYear": 1818,
+    "stock": 1,
+    "location": "D1"
+  },
+  {
+    "isbn": "9780141439518",
+    "name": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "publisher": "Penguin Classics",
+    "publishYear": 1813,
+    "stock": 5,
+    "location": "D1"
+  },
+  {
+    "isbn": "9780451524935",
+    "name": "1984",
+    "author": "George Orwell",
+    "publisher": "Signet Classic",
+    "publishYear": 1949,
+    "stock": 7,
+    "location": "D2"
+  },
+  {
+    "isbn": "9780060850524",
+    "name": "Brave New World",
+    "author": "Aldous Huxley",
+    "publisher": "Harper Perennial",
+    "publishYear": 1932,
+    "stock": 3,
+    "location": "D2"
+  },
+  {
+    "isbn": "9780743273565",
+    "name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "publisher": "Scribner",
+    "publishYear": 1925,
+    "stock": 6,
+    "location": "D3"
+  },
+  {
+    "isbn": "9780316769174",
+    "name": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "publisher": "Little, Brown",
+    "publishYear": 1951,
+    "stock": 6,
+    "location": "D3"
+  },
+  {
+    "isbn": "9780061120084",
+    "name": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publisher": "Harper Perennial",
+    "publishYear": 1960,
+    "stock": 3,
+    "location": "E1"
+  },
+  {
+    "isbn": "9780142437230",
+    "name": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "publisher": "Penguin",
+    "publishYear": 1605,
+    "stock": 2,
+    "location": "E1"
+  },
+  {
+    "isbn": "9780140449266",
+    "name": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "publisher": "Penguin",
+    "publishYear": 1844,
+    "stock": 4,
+    "location": "E2"
+  },
+  {
+    "isbn": "9780140449112",
+    "name": "Les Misérables",
+    "author": "Victor Hugo",
+    "publisher": "Penguin",
+    "publishYear": 1862,
+    "stock": 2,
+    "location": "E2"
+  },
+  {
+    "isbn": "9780143039433",
+    "name": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "publisher": "Penguin",
+    "publishYear": 1939,
+    "stock": 5,
+    "location": "E3"
+  },
+  {
+    "isbn": "9780679783268",
+    "name": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "publisher": "Vintage",
+    "publishYear": 1813,
+    "stock": 4,
+    "location": "F1"
+  },
+  {
+    "isbn": "9780141439563",
+    "name": "Great Expectations",
+    "author": "Charles Dickens",
+    "publisher": "Penguin",
+    "publishYear": 1861,
+    "stock": 5,
+    "location": "F1"
+  },
+  {
+    "isbn": "9780140430721",
+    "name": "Moby-Dick",
+    "author": "Herman Melville",
+    "publisher": "Penguin",
+    "publishYear": 1851,
+    "stock": 1,
+    "location": "F2"
+  },
+  {
+    "isbn": "9780140449181",
+    "name": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "publisher": "Penguin",
+    "publishYear": 1866,
+    "stock": 5,
+    "location": "F2"
+  },
+  {
+    "isbn": "9780140449242",
+    "name": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "publisher": "Penguin",
+    "publishYear": 1877,
+    "stock": 2,
+    "location": "F3"
+  },
+  {
+    "isbn": "9780143039983",
+    "name": "The Odyssey",
+    "author": "Homer",
+    "publisher": "Penguin",
+    "publishYear": -800,
+    "stock": 2,
+    "location": "F3"
+  },
+  {
+    "isbn": "9780553213119",
+    "name": "The Iliad",
+    "author": "Homer",
+    "publisher": "Bantam Classics",
+    "publishYear": -750,
+    "stock": 6,
+    "location": "G1"
+  },
+  {
+    "isbn": "9780140449273",
+    "name": "War and Peace",
+    "author": "Leo Tolstoy",
+    "publisher": "Penguin",
+    "publishYear": 1869,
+    "stock": 1,
+    "location": "G1"
+  },
+  {
+    "isbn": "9780141439600",
+    "name": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "publisher": "Penguin",
+    "publishYear": 1859,
+    "stock": 6,
+    "location": "G2"
+  },
+  {
+    "isbn": "9780141439587",
+    "name": "Emma",
+    "author": "Jane Austen",
+    "publisher": "Penguin",
+    "publishYear": 1815,
+    "stock": 1,
+    "location": "G2"
+  }
+]

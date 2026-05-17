@@ -1,0 +1,98 @@
+[
+  {
+    "id": "admin",
+    "role": "admin",
+    "password": "$2b$10$JG5JRuK80zBOhCZWyaS4EujXhDqXVsIkqftUZhkSvD30.vfZW9Mha",
+    "status": "active"
+  },
+  {
+    "id": "S0001",
+    "role": "student",
+    "password": "$2b$10$.usXOpS5do6wR4jrXz9.luqkQVZrw5HRDrdxExE4aTI1sj.FuX9ZO",
+    "status": "active"
+  },
+  {
+    "id": "S0002",
+    "role": "student",
+    "password": "$2b$10$.usXOpS5do6wR4jrXz9.luqkQVZrw5HRDrdxExE4aTI1sj.FuX9ZO",
+    "status": "active"
+  },
+  {
+    "id": "S0003",
+    "role": "student",
+    "password": "$2b$10$.usXOpS5do6wR4jrXz9.luqkQVZrw5HRDrdxExE4aTI1sj.FuX9ZO",
+    "status": "active"
+  },
+  {
+    "id": "S0004",
+    "role": "student",
+    "password": "$2b$10$.usXOpS5do6wR4jrXz9.luqkQVZrw5HRDrdxExE4aTI1sj.FuX9ZO",
+    "status": "active"
+  },
+  {
+    "id": "S0005",
+    "role": "student",
+    "password": "$2b$10$.usXOpS5do6wR4jrXz9.luqkQVZrw5HRDrdxExE4aTI1sj.FuX9ZO",
+    "status": "active"
+  },
+  {
+    "id": "S0006",
+    "role": "student",
+    "password": "$2b$10$.usXOpS5do6wR4jrXz9.luqkQVZrw5HRDrdxExE4aTI1sj.FuX9ZO",
+    "status": "active"
+  },
+  {
+    "id": "S0007",
+    "role": "student",
+    "password": "$2b$10$.usXOpS5do6wR4jrXz9.luqkQVZrw5HRDrdxExE4aTI1sj.FuX9ZO",
+    "status": "active"
+  },
+  {
+    "id": "S0008",
+    "role": "student",
+    "password": "$2b$10$.usXOpS5do6wR4jrXz9.luqkQVZrw5HRDrdxExE4aTI1sj.FuX9ZO",
+    "status": "active"
+  },
+  {
+    "id": "S0009",
+    "role": "student",
+    "password": "$2b$10$.usXOpS5do6wR4jrXz9.luqkQVZrw5HRDrdxExE4aTI1sj.FuX9ZO",
+    "status": "active"
+  },
+  {
+    "id": "S0010",
+    "role": "student",
+    "password": "$2b$10$.usXOpS5do6wR4jrXz9.luqkQVZrw5HRDrdxExE4aTI1sj.FuX9ZO",
+    "status": "active"
+  },
+  {
+    "id": "S0011",
+    "role": "student",
+    "password": "$2b$10$.usXOpS5do6wR4jrXz9.luqkQVZrw5HRDrdxExE4aTI1sj.FuX9ZO",
+    "status": "active"
+  },
+  {
+    "id": "S0012",
+    "role": "student",
+    "password": "$2b$10$.usXOpS5do6wR4jrXz9.luqkQVZrw5HRDrdxExE4aTI1sj.FuX9ZO",
+    "status": "active"
+  },
+  {
+    "id": "S0013",
+    "role": "student",
+    "password": "$2b$10$.usXOpS5do6wR4jrXz9.luqkQVZrw5HRDrdxExE4aTI1sj.FuX9ZO",
+    "status": "pending"
+  },
+  {
+    "id": "S0014",
+    "role": "student",
+    "password": "$2b$10$.usXOpS5do6wR4jrXz9.luqkQVZrw5HRDrdxExE4aTI1sj.FuX9ZO",
+    "status": "pending"
+  },
+  {
+    "id": "S0015",
+    "role": "student",
+    "password": "$2b$10$.usXOpS5do6wR4jrXz9.luqkQVZrw5HRDrdxExE4aTI1sj.FuX9ZO",
+    "status": "pending"
+  }
+]
